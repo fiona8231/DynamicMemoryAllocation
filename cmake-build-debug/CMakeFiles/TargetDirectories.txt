@@ -1,0 +1,3 @@
+/Users/xueyue/Desktop/Study/CPP/DynamicMemoryAllocation/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/xueyue/Desktop/Study/CPP/DynamicMemoryAllocation/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/xueyue/Desktop/Study/CPP/DynamicMemoryAllocation/cmake-build-debug/CMakeFiles/DynamicMemoryAllocation.dir
